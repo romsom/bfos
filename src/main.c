@@ -1,7 +1,8 @@
 #include "defBF514.h"
 
-void main(void) {
+int main(void) {
 	// TODO toggle GPIO
 	// infinite loop
 	while (1);
+	return 0;
 }
